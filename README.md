@@ -345,6 +345,7 @@ In addition, once you have created a S3-Bucket for storing your audio files and 
 
 
 ## Step-by-step guide to running a CBL experiment on Mechanical Turk
+If you want to run an experiment with audio, start at point 1. If you want to run a chatbot experiment without audio, you can start at point 5. You will need a MT Requester Sandbox account (https://requestersandbox.mturk.com/developer) and an MT Requester Account.
 
 1.	Check Requirements:
     - Create a compiled html of your CBL experiment following the instructions above.
